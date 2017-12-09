@@ -1,0 +1,9 @@
+KEYWORD = '零食'
+MONGO_URI = 'localhost'
+MONGO_DB = 'taobao'
+MONGO_TB = 'lingshi'
+MONGO_PASSWD = ''
+REDIS_URI = 'localhost'
+SET_KEY = 'lingshi-id'
+REDIS_PORT = 6379
+REDIS_PASSWD = ''
